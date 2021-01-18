@@ -16,7 +16,7 @@ Para baixá-lo, clique na imagem abaixo:
 ### Extensões recomendadas para otimizar sua experiência
 
 - [Code Runner](#code-runner)
-- [GitLens — Git supercharged](#gitlens-git-supercharged)
+- [GitLens - Git supercharged](#gitlens)
 - [Bracket Pair Colorizer](#bracket-pair-colorizer)
 - [Eva Theme](#eva-theme)
 - [Live Share](#live-share)
@@ -39,7 +39,7 @@ O Code Runner permite que você edite e execute código em qualquer linguagem de
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">clique aqui.</a>
 <br/>
 
-### GitLens - Git supercharged
+### GitLens
  
 <img src="https://user-images.githubusercontent.com/72177982/104919589-421a5600-5975-11eb-845e-cff0fa3fb8d3.png">
 
@@ -104,7 +104,10 @@ Markdown Preview Enhanced é uma extensão que fornece muitas funcionalidades ú
 **Exemplo:**
 
 <img src="https://user-images.githubusercontent.com/64602353/104952579-83c1f580-59a3-11eb-9d5d-cbf387b6cbf3.png" width="70%">
+
+Para saber como utiliza e instalar <a href="https://shd101wyy.github.io/markdown-preview-enhanced/#/">clique aqui.</a>
 <br/>
+
 
 ### Material Icon Theme
 
