@@ -27,7 +27,7 @@ Para baixá-lo, clique na imagem abaixo:
 - [SSH FS](#ssh-fs)
 <br/>
 
-#### Bracket Pair Colorizer
+### Bracket Pair Colorizer
 
 <img src="https://user-images.githubusercontent.com/72177982/104917815-b0114e00-5972-11eb-8988-44c8a4c05344.png" width="20%">
 
@@ -40,7 +40,7 @@ Para baixá-lo, clique na imagem abaixo:
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer">clique aqui.</a>
 <br/>
 
-#### Code Runner
+### Code Runner
 
 <img src="https://user-images.githubusercontent.com/72177982/104918401-74c34f00-5973-11eb-8e07-0c3f2a3ddfb5.png">
 
@@ -52,7 +52,7 @@ O Code Runner permite que você edite e execute código em qualquer linguagem de
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">clique aqui.</a>
 <br/>
 
-#### Eva Theme
+### Eva Theme
 
 <img src="https://user-images.githubusercontent.com/72177982/104919145-89541700-5974-11eb-9486-227df3d07777.png" width="35%">
 
@@ -67,7 +67,8 @@ Existem 6 estilos no total: Dark, Dark Bold, Dark Italic; Claro, negrito claro, 
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme">clique aqui.</a>
 
 <br/>
-#### GitLens - Git supercharged
+
+### GitLens - Git supercharged
  
 <img src="https://user-images.githubusercontent.com/72177982/104919589-421a5600-5975-11eb-845e-cff0fa3fb8d3.png">
 
@@ -80,7 +81,7 @@ GitLens simplesmente ajuda você a entender melhor o código . Vislumbre rapidam
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">clique aqui.</a>
 <br/>
 
-#### Live Share
+### Live Share
 
 <img src="https://user-images.githubusercontent.com/72177982/104919837-ab9a6480-5975-11eb-96ab-b25dc0bf508e.png">
 
@@ -96,7 +97,7 @@ Para saber como utiliza e instalar <a href="https://visualstudio.microsoft.com/p
 
 <br/>
 
-#### Markdown Preview Enhanced
+### Markdown Preview Enhanced
 
 Markdown Preview Enhanced é uma extensão que fornece muitas funcionalidades úteis, como sincronização automática de rolagem, composição matemática, sereia, PlantUML, pandoc, exportação de PDF, bloco de código, redator de apresentação, etc. 
 
@@ -105,7 +106,7 @@ Markdown Preview Enhanced é uma extensão que fornece muitas funcionalidades ú
 <img src="https://user-images.githubusercontent.com/64602353/104952579-83c1f580-59a3-11eb-9d5d-cbf387b6cbf3.png" width="70%">
 <br/>
 
-#### Material Icon Theme
+### Material Icon Theme
 
 <img src="https://user-images.githubusercontent.com/72177982/104920431-8823e980-5976-11eb-811f-a770ba5972ba.png" width="20%">
 
@@ -119,7 +120,7 @@ Basicamente é uma extenção que coloca ícones para serus arquivos no VSCode o
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">clique aqui.</a>
 <br/>
 
-#### Path Intellisense
+### Path Intellisense
 
 <img src="https://user-images.githubusercontent.com/72177982/104920884-421b5580-5977-11eb-949e-cebc391c5b0a.png" width="20%">
 
@@ -132,7 +133,7 @@ Plug-in de código do Visual Studio que autocompleta nomes de arquivos.
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense">clique aqui.</a>
 <br/>
 
-#### SSH FS
+### SSH FS
 
 <img src="https://user-images.githubusercontent.com/72177982/104921086-a1796580-5977-11eb-92d6-9e6a45ad5218.png" width="20%">
 
