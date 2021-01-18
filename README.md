@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/64602353/104950907-4f990580-59a0-11eb-8e0e-d1ad13fc964d.png" width="50%">
 
-![Version](https://img.shields.io/badge/Version-1.52.1-red) ![Markdown](https://img.shields.io/badge/Visul%20Studio%20Code-Markdown-blue)
+![Version](https://img.shields.io/badge/Version-1.52.1-red) ![Markdown](https://img.shields.io/badge/Visual%20Studio%20Code-Markdown-blue)
 
 *O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Ele também é customizável, fazendo com que os usuários possam mudar o tema do editor, teclas de atalho e preferências. Ele é um software livre e de código aberto apesar do download oficial estar sob uma licença proprietária.*
 
