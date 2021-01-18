@@ -8,6 +8,7 @@
 
 
 Para baixá-lo, clique na imagem abaixo:
+
 <a href="https://code.visualstudio.com/">
 <img src="https://user-images.githubusercontent.com/64602353/104950907-4f990580-59a0-11eb-8e0e-d1ad13fc964d.png" width="15%">
 </a>
@@ -34,6 +35,7 @@ Para baixá-lo, clique na imagem abaixo:
  Esta extensão permite que os colchetes correspondentes sejam identificados com cores. O usuário pode definir quais caracteres combinar e quais cores usar.
 
 **Exemplo:**
+
 <img src="https://user-images.githubusercontent.com/72177982/104918114-0aaaaa00-5973-11eb-9b2c-f8cadd158e48.png">
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer">clique aqui.</a>
 <br/>
@@ -45,6 +47,7 @@ Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com
 O Code Runner permite que você edite e execute código em qualquer linguagem de programação. Tais como: _C, C ++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT / CMD, BASH / SH, F # Script, F # ( .NET Core), C # Script, C # (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C , Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran, dentre outras._
 
 **Exemplo:**
+
 <img src="https://user-images.githubusercontent.com/64602353/104950733-fb8e2100-599f-11eb-86f9-7fefe6def759.gif" width="70%">
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">clique aqui.</a>
 <br/>
@@ -59,6 +62,7 @@ Eva Theme é um tema de código de coloração semântica dedicado a tornar sua 
 Existem 6 estilos no total: Dark, Dark Bold, Dark Italic; Claro, negrito claro, itálico claro. Os estilos Negrito tornam as palavras-chave e os nomes das funções mais fortes. Os estilos Itálico tornam as palavras-chave em itálico.
 
 **Exemplo:**
+
 <img src="https://user-images.githubusercontent.com/64602353/104952160-b8817d00-59a2-11eb-969f-81a88108181a.png">
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme">clique aqui.</a>
 
@@ -70,6 +74,7 @@ Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com
 GitLens simplesmente ajuda você a entender melhor o código . Vislumbre rapidamente quem, por que e quando uma linha ou bloco de código foi alterado. Volte na história para obter mais insights sobre como e por que o código evoluiu. Explore sem esforço a história e a evolução de uma base de código.
 
 **Exemplo:**
+
 <img src="https://user-images.githubusercontent.com/64602353/104952414-2a59c680-59a3-11eb-88aa-ef2d071a06a2.gif" width="70%">
 
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">clique aqui.</a>
@@ -84,6 +89,7 @@ O Visual Studio Live Share permite que você edite e depure de forma colaborativ
 Além disso, ao contrário da programação tradicional em pares, o Visual Studio Live Share permite que os desenvolvedores trabalhem juntos, mantendo suas preferências pessoais de editor (por exemplo, tema, atalhos de teclado), além de ter seu próprio cursor. Isso permite que você faça uma transição perfeita entre seguir um ao outro e ser capaz de explorar ideias / tarefas por conta própria. Na prática, essa capacidade de trabalhar em conjunto e de forma independente fornece uma experiência de colaboração que é potencialmente mais natural para muitos casos de uso comuns.
 
 **Exemplo:**
+
 <img src="https://user-images.githubusercontent.com/64602353/104950363-49eef000-599f-11eb-908c-12c944fce046.gif" width="70%">
 
 Para saber como utiliza e instalar <a href="https://visualstudio.microsoft.com/pt-br/services/live-share/">clique aqui.</a>
@@ -95,6 +101,7 @@ Para saber como utiliza e instalar <a href="https://visualstudio.microsoft.com/p
 Markdown Preview Enhanced é uma extensão que fornece muitas funcionalidades úteis, como sincronização automática de rolagem, composição matemática, sereia, PlantUML, pandoc, exportação de PDF, bloco de código, redator de apresentação, etc. 
 
 **Exemplo:**
+
 <img src="https://user-images.githubusercontent.com/64602353/104952579-83c1f580-59a3-11eb-9d5d-cbf387b6cbf3.png" width="70%">
 <br/>
 
@@ -106,6 +113,7 @@ Markdown Preview Enhanced é uma extensão que fornece muitas funcionalidades ú
 Basicamente é uma extenção que coloca ícones para serus arquivos no VSCode o que deixa a aparência do seu projeto mais interativa.
 
 **Exemplo:**
+
 <img src="https://user-images.githubusercontent.com/64602353/104953180-aaccf700-59a4-11eb-967e-d1dabc13c3c2.png" width="70%">
 <br/>
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">clique aqui.</a>
@@ -119,6 +127,7 @@ Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com
 Plug-in de código do Visual Studio que autocompleta nomes de arquivos.
 
 **Exemplo:**
+
 <img src="https://user-images.githubusercontent.com/64602353/104953333-f8e1fa80-59a4-11eb-8d7a-8e5328211760.gif">
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense">clique aqui.</a>
 <br/>
