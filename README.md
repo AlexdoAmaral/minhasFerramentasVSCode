@@ -15,16 +15,41 @@ Para baixá-lo, clique na imagem abaixo:
 
 ### Extensões recomendadas para otimizar sua experiência
 
-
-- [Bracket Pair Colorizer](#bracket-pair-colorizer)
 - [Code Runner](#code-runner)
-- [Eva Theme](#eva-theme)
 - [GitLens — Git supercharged](#gitlens-git-supercharged)
+- [Bracket Pair Colorizer](#bracket-pair-colorizer)
+- [Eva Theme](#eva-theme)
 - [Live Share](#live-share)
 - [Markdown Preview Enhanced](#markdown-preview-enhanced)
 - [Material Icon Theme](#material-icon-theme)
 - [Path Intellisense](#path-intellisense)
 - [SSH FS](#ssh-fs)
+<br/>
+
+### Code Runner
+
+<img src="https://user-images.githubusercontent.com/72177982/104918401-74c34f00-5973-11eb-8e07-0c3f2a3ddfb5.png">
+
+O Code Runner permite que você edite e execute código em qualquer linguagem de programação. Tais como: _C, C ++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT / CMD, BASH / SH, F # Script, F # ( .NET Core), C # Script, C # (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C , Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran, dentre outras._
+
+**Exemplo:**
+
+<img src="https://user-images.githubusercontent.com/64602353/104950733-fb8e2100-599f-11eb-86f9-7fefe6def759.gif" width="70%">
+
+Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">clique aqui.</a>
+<br/>
+
+### GitLens - Git supercharged
+ 
+<img src="https://user-images.githubusercontent.com/72177982/104919589-421a5600-5975-11eb-845e-cff0fa3fb8d3.png">
+
+GitLens simplesmente ajuda você a entender melhor o código . Vislumbre rapidamente quem, por que e quando uma linha ou bloco de código foi alterado. Volte na história para obter mais insights sobre como e por que o código evoluiu. Explore sem esforço a história e a evolução de uma base de código.
+
+**Exemplo:**
+
+<img src="https://user-images.githubusercontent.com/64602353/104952414-2a59c680-59a3-11eb-88aa-ef2d071a06a2.gif" width="70%">
+
+Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">clique aqui.</a>
 <br/>
 
 ### Bracket Pair Colorizer
@@ -38,18 +63,6 @@ Para baixá-lo, clique na imagem abaixo:
 
 <img src="https://user-images.githubusercontent.com/72177982/104918114-0aaaaa00-5973-11eb-9b2c-f8cadd158e48.png">
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer">clique aqui.</a>
-<br/>
-
-### Code Runner
-
-<img src="https://user-images.githubusercontent.com/72177982/104918401-74c34f00-5973-11eb-8e07-0c3f2a3ddfb5.png">
-
-O Code Runner permite que você edite e execute código em qualquer linguagem de programação. Tais como: _C, C ++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT / CMD, BASH / SH, F # Script, F # ( .NET Core), C # Script, C # (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C , Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran, dentre outras._
-
-**Exemplo:**
-
-<img src="https://user-images.githubusercontent.com/64602353/104950733-fb8e2100-599f-11eb-86f9-7fefe6def759.gif" width="70%">
-Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">clique aqui.</a>
 <br/>
 
 ### Eva Theme
@@ -66,19 +79,6 @@ Existem 6 estilos no total: Dark, Dark Bold, Dark Italic; Claro, negrito claro, 
 <img src="https://user-images.githubusercontent.com/64602353/104952160-b8817d00-59a2-11eb-969f-81a88108181a.png">
 Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme">clique aqui.</a>
 
-<br/>
-
-### GitLens - Git supercharged
- 
-<img src="https://user-images.githubusercontent.com/72177982/104919589-421a5600-5975-11eb-845e-cff0fa3fb8d3.png">
-
-GitLens simplesmente ajuda você a entender melhor o código . Vislumbre rapidamente quem, por que e quando uma linha ou bloco de código foi alterado. Volte na história para obter mais insights sobre como e por que o código evoluiu. Explore sem esforço a história e a evolução de uma base de código.
-
-**Exemplo:**
-
-<img src="https://user-images.githubusercontent.com/64602353/104952414-2a59c680-59a3-11eb-88aa-ef2d071a06a2.gif" width="70%">
-
-Para saber como utiliza e instalar <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">clique aqui.</a>
 <br/>
 
 ### Live Share
